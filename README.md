@@ -1,5 +1,4 @@
 # front-end-capstone
-Front End Capstone
 This is a project I worked on at Hack Reactor with three other people. I was in charge of the Ratings & Reviews section.
 
 We used React.js to develop front end implementation for a minimalistic, single page ecommerce web app.
