@@ -1,8 +1,10 @@
 # front-end-capstone
 Front End Capstone
-Using React.js developed front end implementation for a minimalistic single page ecommerce web app.
+This is a project I worked on at Hack Reactor with three other people. I was in charge of the Ratings & Reviews section.
 
-Gives the user the ability to select different styles, view related products, questions and answers, and check reviews and ratings for the selected product.
+We used React.js to develop front end implementation for a minimalistic, single page ecommerce web app.
+
+Our application gives the user the ability to select different styles, view related products, questions and answers, and check reviews & ratings for the selected product.
 
 <h3>Overview</h3>
 The overview component enables users to look through different styles, examine images of both the product and its styles, and pick the size and quantity of the product they want to add to their shopping cart.
